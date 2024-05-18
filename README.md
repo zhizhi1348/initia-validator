@@ -250,8 +250,8 @@ initiad tx mstaking create-validator \
   --commission-max-change-rate=0.01 \
   --from=$WALLET \
   --identity="" \
-  --website="https://github.com/0xMoei" \
-  --details="0xMoei Validator" \
+  --website="https://github.com/zhizhi1348" \
+  --details="zhizhi1348 Validator" \
   --node=http://localhost:15657 \
   --gas-adjustment 1.4 \
   --gas auto \
